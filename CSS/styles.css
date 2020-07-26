@@ -34,13 +34,6 @@ table {
     background-color: orange;
 }
 
-.table{
-    margin: auto; 
-    width: 90%; 
-    justify-content: center; 
-    padding-left: 35px;
-}
-
 table,
 th,
 td {
